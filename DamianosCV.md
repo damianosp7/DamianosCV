@@ -21,12 +21,12 @@ ________________________________________
 
 **Key Projects:**
 
-1.  **Core Banking System Integration – Peiraios & Pancreta Banks**
+1.  **Core Banking System Integration – Peiraios & Attica Banks**
     *   Played a key role in merging backend banking systems following the banks' consolidation, focusing on data integrity and system stability.
     *   Addressed and resolved performance challenges related to high-volume financial data processing and ensuring real-time service uptime.
     *   Involved in deploying, configuring, and monitoring Tomcat servers on Jenkins CI/CD environments for integration testing and production releases.
 2.  **Digital Banking Platform – Attica Bank**
-    *   Engineered and delivered robust web services for digital loan products and various subsidy programs (e.g., Exoikonomo, Tepix, Innovation Loan Fund).
+    *   Engineered and delivered robust web services for digital loan products and various subsidy programs (e.g., Exoikonomo, Tepix, Innovation Loan Fund and many more).
     *   Developed core backend features supporting user eligibility validation, loan application processing, and automated contract generation.
     *   Contributed to full-stack development tasks (Java, Spring Boot, Thymeleaf, JavaScript) for internal administrative and external customer-facing banking portals.
 3.  **Internal Spring Boot Projects**
