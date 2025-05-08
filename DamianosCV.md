@@ -12,23 +12,28 @@ ________________________________________
 
 **Software Developer (Java Backend)** | PwC, Athens, Greece                               **May 2021 – Present**
 
-*   Developed and maintained complex Java 8 codebases for multiple large-scale banking projects (Peiraios Bank, Attica Bank, Pancreta Bank), supporting payment processing, loan management, and core banking operations in high-transaction environments.
-*   Led development efforts on K2B initiatives, including Cars Loans and Agricultural Credit Cards, coordinating feature delivery and providing technical oversight.
-*   Implemented and consumed RESTful APIs for internal and third-party services, ensuring seamless integration across banking ecosystems.
-*   Delivered projects within Agile environments (Jira, Azure Boards), actively participating in sprint planning, reviews, and daily stand-ups.
-*   Contributed to the development of the Hellenic Electricity Distribution Network Operator (HEDNO) project.
-*   Assisted in the migration of legacy banking applications from Internet Explorer to Edge.
+* Developed and maintained complex Java 8 codebases supporting payment processing, loan management, and core banking operations.
+* Led development efforts on K2B initiatives including Cars Loans and Agricultural Credit Cards, coordinating feature delivery and technical oversight.
+* Implemented and consumed RESTful APIs for internal and third-party services across banking ecosystems.
+* Delivered projects in Agile environments (Jira, Azure Boards), participating in sprint planning, reviews, and daily standups.
+* Acted as the point of contact for backend performance tuning tasks, including SQL query optimization and batch process efficiency improvements, leading to a 40% reduction in nightly job runtimes.
+* Participated in the upgrade and modernization of legacy banking systems, helping design transition paths to microservices architectures.
+* Contributed to the development and integration of web services supporting banking operations like loan origination, eligibility validation, and document automation.
+* Built RESTful APIs for real-time communication between internal systems and third-party services, such as credit bureaus and compliance databases.
+* Collaborated with QA engineers and DevOps teams to troubleshoot issues across multiple environments and streamline CI/CD pipelines using Jenkins and Azure DevOps.
+* Worked extensively with stakeholders across banks to gather requirements and translate them into technical designs and sprint deliverables.
+* Regularly handled deployments and testing across development, staging, and production environments using containerized setups and version control best practices.
 
 **Key Projects:**
 
-1.  **Core Banking System Integration – Peiraios & Attica Banks**
+1.  **Core Banking System Integration – Pancreta & Attica Banks**
     *   Played a key role in merging backend banking systems following the banks' consolidation, focusing on data integrity and system stability.
     *   Addressed and resolved performance challenges related to high-volume financial data processing and ensuring real-time service uptime.
     *   Involved in deploying, configuring, and monitoring Tomcat servers on Jenkins CI/CD environments for integration testing and production releases.
-2.  **Digital Banking Platform – Attica Bank**
-    *   Engineered and delivered robust web services for digital loan products and various subsidy programs (e.g., Exoikonomo, Tepix, Innovation Loan Fund and many more).
+2.  **Digital Banking Platform – Peiraeus Bank / Attica Bank**
+    *   Engineered and delivered robust web services for digital loan products and various subsidy programs (e.g., Exoikonomo, Tepix, COC, MicroAgriculture, Innovation Loan Fund and many more).
     *   Developed core backend features supporting user eligibility validation, loan application processing, and automated contract generation.
-    *   Contributed to full-stack development tasks (Java, Spring Boot, Thymeleaf, JavaScript) for internal administrative and external customer-facing banking portals.
+    *   Contributed to full-stack development tasks for internal administrative and external customer-facing banking portals.
 3.  **Internal Spring Boot Projects**
     *   Designed, developed, and deployed a messaging automation platform (email, SMS, Viber) using Spring Boot, REST APIs, and Docker for containerization.
     *   Built and experimented with smaller proof-of-concept microservices for internal R&D, gaining hands-on experience with inter-service communication, containerization strategies, and PostgreSQL database interactions.
